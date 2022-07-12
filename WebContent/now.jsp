@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	현재 시간은 <%= new Clock().now() %>
+	현재 시간은 <%= new Clock().now() %>  dd
 
 </body>
 </html>
